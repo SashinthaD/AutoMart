@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/SLIIT/Year 2/semester 1/OOP/group assignment/spare part management system/JAR Files/javax.servlet-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/SLIIT/Year 2/semester 1/OOP/group assignment/spare part management system/JAR Files/mysql-connector-java-5.1.48-bin.jar"/>
+	<classpathentry kind="lib" path="D:/SLIIT/Year 2/semester 1/OOP/group assignment/spare part management system/JAR Files/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/bin/bootstrap.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/bin/tomcat-juli.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/catalina-ssi.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/catalina-storeconfig.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/ecj-4.18.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/jaspic-api.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/tomcat-i18n-cs.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/tomcat-i18n-de.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/tomcat-i18n-ko.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/tomcat-i18n-pt-BR.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/tomcat-i18n-ru.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/tomcat-i18n-zh-CN.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/tomcat-jni.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/tomcat-util-scan.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/tomcat-websocket.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/tomcat/lib/websocket-api.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA programming/automart/src/main/webapp/WEB-INF/lib/activation-jaf1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA programming/automart/src/main/webapp/WEB-INF/lib/javax.mail.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA programming/automart/src/main/webapp/WEB-INF/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA programming/automart/src/main/webapp/WEB-INF/lib/javax.mail-api-1.6.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

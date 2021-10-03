@@ -1,0 +1,47 @@
+@charset "ISO-8859-1";
+.lable{
+	font-size: 30px;
+	font-family: 'Quicksand', sans-serif;
+}
+	
+	
+	.update1{
+margin-left: 0%;
+width:40%;
+font-size:large;
+background-color:#0000cd;
+height:90px;
+border:none;
+color:white;
+border-radius:8px;
+cursor:pointer;
+transition: 0.5s;
+text-decoration:none;
+padding:5px 10px 5px 10px;
+
+}
+
+.update1:hover {
+box-shadow: 0 10px 15px  ash;
+}
+
+.delete1{
+margin-left: 0%;
+width:40%;
+font-size:large;
+background-color:#dc143c;
+height:90px;
+border:none;
+color:white;
+border-radius:8px;
+cursor:pointer;
+transition: 0.5s;
+ padding:5px 10px 5px 10px;
+ text-decoration:none;
+
+}
+
+.delete:hover {
+box-shadow: 0 10px 15px #a2ff42;
+}
+	
